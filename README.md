@@ -1,4 +1,4 @@
-# Machine Learning Algorithms Repository
+#  Data Mining Repository
 
 Welcome to the **DATA MINING Repository**! This repository contains a collection of machine learning algorithms, complete with raw code and detailed explanations. The goal is to provide clear and practical examples of various algorithms that can be used for learning and reference purposes.
 
